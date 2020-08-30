@@ -1,2 +1,2 @@
-# CS111_Notes
+# Pytho_Practice
 Notes and upload spaces for completed projects and practices
